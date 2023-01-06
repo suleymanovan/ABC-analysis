@@ -1,7 +1,7 @@
 # ABC-analysis
 ABC и XYZ анализ ассортимента
 
-Анализ ассортимннта представлен по ссылке: https://docs.google.com/spreadsheets/d/1yXfH3gFFIE4Oi8Tuee7VUQb9Uq8EAmd62b58-JWont4/edit?usp=sharing
+Анализ ассортимента представлен по ссылке: https://docs.google.com/spreadsheets/d/1yXfH3gFFIE4Oi8Tuee7VUQb9Uq8EAmd62b58-JWont4/edit?usp=sharing
 
 ### Аналитическая записка
 
